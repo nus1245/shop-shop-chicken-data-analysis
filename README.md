@@ -87,4 +87,5 @@ python 코드 구현은 AI 코드 어시스턴트(Claude)와 논의하며 기초
 조승훈 — 데이터 분석가(주니어) 지망 ·
 E-MAIL : nextbus1245@gmail.com 
 Tel. : 010-3975-3130
+
 해당 프로젝트 노션 기록 : https://app.notion.com/p/36522de4a40981c1b1a0c2e6177e8c9a?source=copy_link
