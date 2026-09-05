@@ -83,7 +83,8 @@ E-MAIL : nextbus1245@gmail.com
 
 해당 프로젝트 노션 기록 : https://app.notion.com/p/36522de4a40981c1b1a0c2e6177e8c9a?source=copy_link
 
-Tableau 월간 dash_board : https://public.tableau.com/views/Monthly-WeeklyReport/___3?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau 월간 dash_board : [https://public.tableau.com/views/Monthly-WeeklyReport/___3?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/_17885736711600/___3?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-Tableau 일별 상세 dash_board : https://public.tableau.com/views/Daily-Log/___4?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau 일별 상세 dash_board : [https://public.tableau.com/views/Daily-Log/___4?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+](https://public.tableau.com/views/_17885736348380/___4?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
