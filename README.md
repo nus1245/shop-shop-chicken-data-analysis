@@ -87,7 +87,7 @@ python 코드 구현은 AI 코드 어시스턴트(Claude)와 논의하며 기초
 데이터의 소표본·요일별 구조에 맞게 직접 발전시켰습니다. 이후 코드 리펙토링 작업을 AI 코드 어시스턴트를 활용하여 가독성을 증진했습니다.
 ## 작성자
 
-조승훈 — 데이터 분석가(주니어) 지망 ·
+조승훈 
 E-MAIL : nextbus1245@gmail.com 
 
 해당 프로젝트 노션 기록 : https://app.notion.com/p/36522de4a40981c1b1a0c2e6177e8c9a?source=copy_link
